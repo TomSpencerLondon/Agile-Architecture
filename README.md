@@ -35,7 +35,7 @@ https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf
 - Martin Fowler claims that there is no highest level of system design
 - Different people have different views of the architecture
 - He suggests a better definition - architecture is the shared understanding of system design
-  - the understanding incldes how the system is divided into components and how the components interact
+  - the understanding includes how the system is divided into components and how the components interact
 - Architecture, according to Fowler, is a "social construct"
 - Martin Fowler uses the term Architectus Oryzus (oryza means rice)
   https://web.archive.org/web/20040610210445/http://www.nd.edu/~archives/ooo.htm
