@@ -78,6 +78,9 @@ https://martinfowler.com/articles/consumerDrivenContracts.html
 This video is good on consumer driven contracts with Spring:
 https://www.youtube.com/watch?v=9cpXaEr3C5o
 
+I have added a repo here which uses consumer contract testing with Spring:
+https://github.com/TomSpencerLondon/Consumer-Contract-Testing
+
 During inception (the beginning period of a project) it can also help to agree on what is hard to change
 We can also use spikes to explore things hard to change - explore if hard to change or decide later?
 
