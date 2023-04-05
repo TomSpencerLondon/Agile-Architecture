@@ -249,6 +249,8 @@ This video is quite good on B+ trees:
 https://www.youtube.com/watch?v=_XwsETNHf8c
 https://www.cs.usfca.edu/~galles/visualization/BTree.html
 As we use access memory we need blocks. 
+This is a Bplus tree implementation in Java:
+https://github.com/shandysulen/B-Plus-Tree
 
 #### Relationships
 We need relationships to work well between objects. Take the time to understand relationships:
