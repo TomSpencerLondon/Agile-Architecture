@@ -64,6 +64,13 @@ https://www.youtube.com/watch?v=VjKYO6DP3fo
 - Responding to change over having a plan
  - we want something that can change + diagram
 
+Side note: responding to change is an interesting idea here. I particularly like two aspects of this approach.
+Firstly empowering teams to make their own decisions on the spot. Secondly the implication that this has for the
+role of software developer. The developer is almost trained above their role so that they are more effective at their
+job and are able to make better decisions.
+
+https://www.youtube.com/watch?v=6yOPih9zRNs
+
 #### How do we know architecture is happening?
 Agile context how stop irreversible things reversible? An agile Approach with Traditional databases. 
 Rather than having the database schema defined at the beginning make the database easy to change - series of migrations e.g. split field into different columns
